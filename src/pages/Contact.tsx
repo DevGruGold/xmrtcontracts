@@ -53,7 +53,7 @@ const Contact = () => {
                   <Phone className="w-6 h-6 text-primary mt-1" />
                   <div>
                     <h3 className="font-semibold">Phone</h3>
-                    <p>+1 (555) 123-4567</p>
+                    <p>+50661500559</p>
                   </div>
                 </div>
                 
@@ -61,7 +61,7 @@ const Contact = () => {
                   <MapPin className="w-6 h-6 text-primary mt-1" />
                   <div>
                     <h3 className="font-semibold">Office</h3>
-                    <p>123 Blockchain Street<br />Tech City, TC 12345</p>
+                    <p>Calle 442<br />La Fortuna, Costa Rica</p>
                   </div>
                 </div>
               </div>
