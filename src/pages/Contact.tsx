@@ -20,7 +20,7 @@ const Contact = () => {
       `Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`
     )}`;
     window.location.href = mailtoLink;
-    toast.success("Thank you for your message!");
+    toast.success("Thank you for your message! We'll get back to you soon.");
     setFormData({ name: "", email: "", subject: "", message: "" });
   };
 
